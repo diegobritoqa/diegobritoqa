@@ -1,5 +1,5 @@
 # 😎 About Me:
-Employment - Senior QA Engineer 👨‍💻<br> Hobbies - Swimming 🏊‍♂️ / Running 🏃‍♂️
+## Employment - Senior QA Engineer 👨‍💻<br> Hobbies - Swimming 🏊‍♂️ / Running 🏃‍♂️
 
 
 ## 🌐 Socials:
